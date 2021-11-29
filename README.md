@@ -3,3 +3,5 @@ Implementación de metodología CRISP-DM, la cual cuenta con 6 fases, que forman
 
 ## URL de Jira
 https://jrcastb.atlassian.net/jira/software/projects/MBID/boards/2/roadmap
+
+## Autor: José Ricardo Castillo Bastidas
